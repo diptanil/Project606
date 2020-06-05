@@ -3,7 +3,7 @@ behave-django==1.1.0
 codegen==1.0
 coverage==4.5.1
 dj-database-url==0.5.0
-Django==1.11.16
+Django==1.11.29
 django-redis-cache==1.8.1
 django-redis-sessions==0.6.1
 enum==0.4.7
