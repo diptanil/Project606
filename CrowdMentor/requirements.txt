@@ -28,5 +28,5 @@ six==1.11.0
 splinter==0.9.0
 text-unidecode==1.2
 traceback2==1.4.0
-urllib3==1.24
+urllib3==1.26.5
 whitenoise==4.1
